@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-c-s&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-c-s" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **Java, Spring
+Core, Spring Boot, Hibernate, Maven, JPA, HTML, CSS, JavaScript, ReactJS, Angular, GraphQL
+and TypeScript**
 
-- 💬 Ask me about **React , JavaScript**
-
-- 📫 How to reach me **manojcs123456@gmail.com**
+- 📫 How to reach me **manojcs1666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
