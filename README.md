@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-c-s&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-c-s" /> </p>
 
-- 💬 Ask me about **Java, Spring
+- 💬 Skills **Java, Spring
 Core, Spring Boot, Hibernate, Maven, JPA, HTML, CSS, JavaScript, ReactJS, Angular, GraphQL
 and TypeScript**
 
